@@ -1,0 +1,4 @@
+{ global:
+gst_delta_get_type;
+gst_plugin_desc;
+local: *; };
