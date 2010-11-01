@@ -1,0 +1,18 @@
+Source: gstreamer0.10-delta
+Section: libs
+Priority: optional
+Maintainer: Robert Y <decatf@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), libgstreamer-plugins-base0.10-dev, libgstreamer0.10-dev 
+Standards-Version: 3.8.4
+Homepage: 
+#Vcs-Git: git://git.debian.org/collab-maint/gstreamer0.10-delta-0.1.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/gstreamer0.10-delta-0.1.git;a=summary
+
+Package: gstreamer0.10-delta
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Gstreamer delta dsp plugin
+ Audio sharpening plugin for gstreamer takes the difference
+ between each successive sample. The difference is added to the
+ sample to achieve a sharpening effect. This may improve the percieved
+ sound quality especially on low end audio systems.

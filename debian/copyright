@@ -1,0 +1,50 @@
+This work was packaged for Debian by:
+
+    Robert <decatf@gmail.com> on Mon, 01 Nov 2010 13:30:25 -0400
+
+It was downloaded from:
+
+    <url://example.com>
+
+Upstream Author(s):
+
+    Robert Y <Decatf@gmail.com>
+
+Copyright:
+
+    <Copyright (C) 2010 Robert Y>
+
+License:
+
+    Noise Sharpening dsp
+    Copyright (C) 2010 Robert Y <Decatf@gmail.com>
+
+    This program is free software; you can redistribute it and/or
+    modify it under the terms of the GNU General Public License
+    as published by the Free Software Foundation; either version 2
+    of the License, or (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+The Debian packaging is:
+
+    Copyright (C) 2010 Robert <decatf@gmail.com>
+
+# Please chose a license for your packaging work. If the program you package
+# uses a mainstream license, using the same license is the safest choice.
+# Please avoid to pick license terms that are more restrictive than the
+# packaged work, as it may make Debian's contributions unacceptable upstream.
+# If you just want it to be GPL version 3, leave the following lines in.
+
+and is licensed under the GPL version 3,
+see "/usr/share/common-licenses/GPL-3".
+
+# Please also look if there are files or directories which have a
+# different copyright/license attached and list them here.
